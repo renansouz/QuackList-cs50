@@ -1,5 +1,5 @@
 ## QuackList
-#### Video Demo: https://youtu.be/mI0c9Xr5zS0
+
 #### Description: 
 QuackList is a simple task management web application developed as the final project for the CS50 course. Users can easily add, update, and delete tasks through an intuitive interface. Built using Flask and SQLAlchemy, QuackList provides a seamless user experience for organizing tasks efficiently. With QuackList, every task can get its 'ducks in a row'.
 
